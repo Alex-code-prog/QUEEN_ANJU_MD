@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
-  "PREFIX": "+",
+  "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "inbox",
   "BOT_NUMBER": "2348032180744",
@@ -10,7 +10,7 @@ module.exports = {
   "AUTO_STICKER": false,
   "AUTO_REPLY": true,
   "AUTO_REACT": false,
-  "WELCOME": true,
+  "WELCOME": false,
   "ANTI_BAD": false,
   "ANTI_BOT": false,
   "ANTI_LINK": true,
@@ -22,7 +22,7 @@ module.exports = {
   "OWNER_NAME": "@AYD",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
-  "AUTO_RECORDING": true,
+  "AUTO_RECORDING": false,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷"

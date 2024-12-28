@@ -52,5 +52,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-MD=Gc0hwAaT#s2Ifpp921bNIZR8mRkUFwYikxunW0IFUQZSqeYtu1A0",
+SESSION_ID: process.env.SESSION_ID || "ANJU-MD=vA82EaoD#TOrCAvUIu0hJ3XIGK0e2ayIUbKJ15BA87WQBt0fZr40",
 };

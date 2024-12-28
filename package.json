@@ -56,6 +56,6 @@
     "quick-lru": "7.0.0",
     "g-i-s": "^2.1.7",
     "adm-zip": "0.5.16",
-    "remove-bg-node": "^1.0.3"
+    "@dark-yasiya/news-scrap": "^1.0.1"
   }
 }
